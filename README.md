@@ -1,5 +1,5 @@
 # StuntGP-Linux
-## running stuntgp on linux and limitations.
+## Running StuntGP on linux distros and limitations with this method.
 
 # Special Thanks to:
 ## The community on the [Trickstart](https://discord.gg/ykzAWnA) Discord Server
@@ -35,12 +35,12 @@
 14) On PlayOnLinux now click Configure click on the name of the wineprefix you set before (Step 5), and click Create a new shortcut, then select the **StuntKit_D3D.exe** and close the window.
 15) And Done!
 
-# FAQ:
-## Why not use steam and proton?
+# Q&A:
+## Why not use Steam and Proton?
 > it seems that proton **doesn't** support directx7 which is needed for StuntGP to run
 ## Is there a simpler way?
 > Surely there is, i just dont know how to do it and i got the best results with this method
-## Why Not running it with just WINE?
+## Why mot running it with just WINE?
 > i don't know why but wine just refuses to start the StuntGP.exe file
 ## Will this repo be updated if you find a simpler method
 > Yes it will.
