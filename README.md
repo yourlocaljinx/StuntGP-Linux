@@ -7,7 +7,7 @@ running stuntgp on linux and limitations.
 # DISCLAIMER!
 ## This was tested on linux **Manjaro** with Sway DE. i *don't know* if it works on other distros
 
-# Prerequisites #
+# Prerequisites
 > [Wine](https://www.winehq.org/)
 > [PlayOnLinux](https://www.playonlinux.com/en/)
 > [A StuntGP Iso](https://www.myabandonware.com/game/stunt-gp-ddu)
@@ -31,7 +31,7 @@ running stuntgp on linux and limitations.
 14) On PlayOnLinux now click Configure click on the name of the wineprefix you set before (Step 5), and click Create a new shortcut, then select the **StuntKit_D3D.exe** and close the window.
 15) And Done!
 
-#FAQ:
+# FAQ:
 ## Why not use steam and proton?
 > it seems that proton **doesn't** support directx7 which is needed for StuntGP to run
 ## Is there a simpler way?
