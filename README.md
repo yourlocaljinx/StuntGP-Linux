@@ -44,6 +44,12 @@
 5) Done!
 <img src="https://github.com/yourlocaljinx/StuntGP-Linux/blob/main/image.png">
 
+## Want to fix the StuntGP trick timer?
+(It seems like the StuntGP Trick timer is **halfed** when we play on refresh rates higher than 60hz. this affects gameplay and requires to hit the Trick key almost *frame perfect* to do tricks while flying)
+### The Steam Method of fixing this bug. (requires the game in the steam library so follow the steps before if you want to do this fix)
+1) Open Steam and open the properties tab on your StuntGP shortcut in the Steam library.
+2) set these launch options: "gamescope -w "WIDTHOFRESOLUTION" -h "HEIGHTOFRESOLUTION" -r 60 -f -- %command%" <----- What were doing here is that we are creating a [gamescope](https://github.com/ValveSoftware/gamescope) virtual display and we are setting the maximum refresh rate to 60hz, The game will feel choppy if you were playing on higher refresh rates before, but now you can do tricks. set the "WIDTHOFRESOLUTION" as the width of your resolution and "HEIGHTOFRESOLUTION" as the height of your resolution
+3) Play the game
 
 # Q&A:
 ## Why not use Steam and Proton?
