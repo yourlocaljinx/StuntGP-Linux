@@ -50,7 +50,7 @@
 > it seems that proton **doesn't** support directx7 which is needed for StuntGP to run
 ## Is there a simpler way?
 > Surely there is, i just dont know how to do it and i got the best results with this method
-## Why mot running it with just WINE?
+## Why not running it with just WINE?
 > i don't know why but wine just refuses to start the StuntGP.exe file
 ## Will this repo be updated if you find a simpler method
 > Yes it will.
