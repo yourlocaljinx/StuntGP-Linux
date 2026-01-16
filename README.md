@@ -42,7 +42,7 @@
 3) Make sure to **disable** Steam Play for StuntGP in compatibility options
 4) Beutify it with some images from [SteamGrid](https://www.steamgriddb.com/game/38317).
 5) Done!
-https://github.com/yourlocaljinx/StuntGP-Linux/blob/main/image.png
+<img src="https://github.com/yourlocaljinx/StuntGP-Linux/blob/main/image.png">
 
 
 # Q&A:
