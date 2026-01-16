@@ -1,20 +1,20 @@
 # StuntGP-Linux
 running stuntgp on linux and limitations.
 
-#Special Thanks to:
-##The community on the [Trickstart](https://discord.gg/ykzAWnA) Discord Server
+# Special Thanks to:
+## The community on the [Trickstart](https://discord.gg/ykzAWnA) Discord Server
 
-#DISCLAIMER!
-##This was tested on linux **Manjaro** with Sway DE. i *don't know* if it works on other distros
+# DISCLAIMER!
+## This was tested on linux **Manjaro** with Sway DE. i *don't know* if it works on other distros
 
-#Prerequisites
->[Wine](https://www.winehq.org/)
->[PlayOnLinux](https://www.playonlinux.com/en/)
->[A StuntGP Iso](https://www.myabandonware.com/game/stunt-gp-ddu)
->[StuntKit](https://github.com/stuntkit/StuntKit) and [SkScreen Module](https://github.com/stuntkit/StuntKit_modules/releases/tag/v0.3.0) (Optional): [SkFreeze Module](https://github.com/stuntkit/StuntKit_modules/releases/tag/v0.3.0).
->And most importantly patience (A LOT OF PATIENCE)
+# Prerequisites
+> [Wine](https://www.winehq.org/)
+> [PlayOnLinux](https://www.playonlinux.com/en/)
+> [A StuntGP Iso](https://www.myabandonware.com/game/stunt-gp-ddu)
+> [StuntKit](https://github.com/stuntkit/StuntKit) and [SkScreen Module](https://github.com/stuntkit/StuntKit_modules/releases/tag/v0.3.0) (Optional): [SkFreeze Module](https://github.com/stuntkit/StuntKit_modules/releases/tag/v0.3.0).
+> And most importantly patience (A LOT OF PATIENCE)
 
-#INSTALLATION.
+# INSTALLATION.
 1) Extract the StuntGP iso to a directory accessible to playonlinux
 2) Click Install Program on PlayOnLinux
 3) Click Install a program thats not present in the list, it should open a window titled "Manual Installation"
@@ -32,13 +32,13 @@ running stuntgp on linux and limitations.
 15) And Done!
 
 #FAQ:
-##Why not use steam and proton?
+## Why not use steam and proton?
 > it seems that proton **dosen't** support directx7 which is needed for StuntGP to run
-##Is there a simpler way?
+## Is there a simpler way?
 > Surely there is, i just dont know how to do it and i got the best results with this method
-##Why Not running it with just WINE?
+## Why Not running it with just WINE?
 > i don't know why but wine just refuses to start the StuntGP.exe file
-##Will this repo be updated if you find a simpler method
+## Will this repo be updated if you find a simpler method
 > Yes it will.
-##Isn't there a compiled StuntGP linux version?
+## Isn't there a compiled StuntGP linux version?
 > No, linux wasn't very popular (and was very limited) at the time StuntGP released, so Team17 never did a linux version for the game
