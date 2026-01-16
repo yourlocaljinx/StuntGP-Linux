@@ -1,5 +1,5 @@
 # StuntGP-Linux
-running stuntgp on linux and limitations.
+## running stuntgp on linux and limitations.
 
 # Special Thanks to:
 ## The community on the [Trickstart](https://discord.gg/ykzAWnA) Discord Server
@@ -9,12 +9,16 @@ running stuntgp on linux and limitations.
 
 # Prerequisites
 > [Wine](https://www.winehq.org/)
+
 > [PlayOnLinux](https://www.playonlinux.com/en/)
+
 > [A StuntGP Iso](https://www.myabandonware.com/game/stunt-gp-ddu)
+
 > [StuntKit](https://github.com/stuntkit/StuntKit) and [SkScreen Module](https://github.com/stuntkit/StuntKit_modules/releases/tag/v0.3.0) (Optional): [SkFreeze Module](https://github.com/stuntkit/StuntKit_modules/releases/tag/v0.3.0).
+
 > And most importantly patience (A LOT OF PATIENCE)
 
-# INSTALLATION.
+# INSTALLATION
 1) Extract the StuntGP iso to a directory accessible to playonlinux
 2) Click Install Program on PlayOnLinux
 3) Click Install a program thats not present in the list, it should open a window titled "Manual Installation"
