@@ -7,7 +7,7 @@ running stuntgp on linux and limitations.
 # DISCLAIMER!
 ## This was tested on linux **Manjaro** with Sway DE. i *don't know* if it works on other distros
 
-# Prerequisites
+# Prerequisites #
 > [Wine](https://www.winehq.org/)
 > [PlayOnLinux](https://www.playonlinux.com/en/)
 > [A StuntGP Iso](https://www.myabandonware.com/game/stunt-gp-ddu)
@@ -33,7 +33,7 @@ running stuntgp on linux and limitations.
 
 #FAQ:
 ## Why not use steam and proton?
-> it seems that proton **dosen't** support directx7 which is needed for StuntGP to run
+> it seems that proton **doesn't** support directx7 which is needed for StuntGP to run
 ## Is there a simpler way?
 > Surely there is, i just dont know how to do it and i got the best results with this method
 ## Why Not running it with just WINE?
