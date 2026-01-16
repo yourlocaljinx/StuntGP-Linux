@@ -35,6 +35,16 @@
 14) On PlayOnLinux now click Configure click on the name of the wineprefix you set before (Step 5), and click Create a new shortcut, then select the **StuntKit_D3D.exe** and close the window.
 15) And Done!
 
+# OPTIONAL:
+## Want to add StuntGP in your steam library on linux?
+1) Make a .sh script named something like "sgp.sh", write "playonlinux4 --run StuntKit_D3D" then make it executable with **chmod +x /path/to/script.sh/**
+2) Add the script to steam as a **non steam game**
+3) Make sure to **disable** Steam Play for StuntGP in compatibility options
+4) Beutify it with some images from [SteamGrid](https://www.steamgriddb.com/game/38317).
+5) Done!
+https://github.com/yourlocaljinx/StuntGP-Linux/blob/main/image.png
+
+
 # Q&A:
 ## Why not use Steam and Proton?
 > it seems that proton **doesn't** support directx7 which is needed for StuntGP to run
